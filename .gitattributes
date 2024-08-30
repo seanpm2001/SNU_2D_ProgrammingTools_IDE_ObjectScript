@@ -32,6 +32,19 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# ObjectScript source file
+*.cls linguist-detectable=true
+*.cls linguist-documentation=false
+*.cls linguist-language=ObjectScript
+*.inc linguist-detectable=true
+*.inc linguist-documentation=false
+*.inc linguist-language=ObjectScript
+*.int linguist-detectable=true
+*.int linguist-documentation=false
+*.int linguist-language=ObjectScript
+*.mac linguist-detectable=true
+*.mac linguist-documentation=false
+*.mac linguist-language=ObjectScript
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +174,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2024, Thursday, August 29th at 10:54 pm PST)
+# Line count (including blank lines and compiler line): 187
+
 # End of script
